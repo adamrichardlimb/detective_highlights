@@ -1,0 +1,11 @@
+{
+	"title"		:	"Detective Highlights",
+	"type"		:	"effects",
+	"tags"		:	[ "fun" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
